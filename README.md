@@ -23,5 +23,5 @@ Aquí puedes ver la aplicación práctica de mis habilidades en sistemas funcion
 
 ### Contacto
 
-* **LinkedIn:** [https://www.linkedin.com/in/jonathan-aguirre-9bb6b9258/]
+* **LinkedIn:** [https://www.linkedin.com/in/jonathan-aguirre-dev/]
 * **Email:** [jonathan.aguirrec@outlook.com]
