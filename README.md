@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Jonathan Aguirre
 
-<!--
-**jonathanAguirre1999/jonathanAguirre1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Junior QA & Technical Support
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería de Software con mentalidad analítica y experiencia en resolución de problemas técnicos en entornos de negocio (ERP). Me enfoco en la calidad del código, la seguridad de los procesos y la optimización de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mis Herramientas (Stack)
+
+* **Lenguajes Principales:** Java (OOP), SQL.
+* **Habilidades Clave:** Software Testing (QA), Documentación de Bugs, Soporte Técnico.
+* **Herramientas:** Git/GitHub, IDEs (IntelliJ/Eclipse), Metodologías Ágiles (Conocimiento de Trello/Jira).
+
+### Proyectos Destacados (Portafolio)
+
+Aquí puedes ver la aplicación práctica de mis habilidades en sistemas funcionales:
+
+| Proyecto | Objetivo | Tecnologías |
+| :--- | :--- | :--- |
+| **[Multimedia-Inventory-Manager](https://github.com/jonathanAguirre1999/Multimedia-Inventory-Manager.git)** | Gestión de datos y exportación de reportes a CSV/TXT. | Java, Swing, Data Management |
+| **[Java-Crypto-Tool](https://github.com/jonathanAguirre1999/Java-Crypto-Tool.git)** | Implementación de algoritmos de seguridad de datos. | Java, Cryptography, File I/O |
+| **[Tournament-Match-Scheduler](https://github.com/jonathanAguirre1999/Tournament-Match-Scheduler.git)** | Generador de sorteos con lógica algorítmica. | Java, Algorithms |
+| **[Console-Minesweeper-Java](https://github.com/jonathanAguirre1999/Console-Minesweeper-Java.git)** | Aplicación de POO a una réplica del clásico buscaminas. | Java, Data Management, JUnit |
+
+### Contacto
+
+* **LinkedIn:** [https://www.linkedin.com/in/jonathan-aguirre-9bb6b9258/]
+* **Email:** [jonathan.aguirrec@outlook.com]
