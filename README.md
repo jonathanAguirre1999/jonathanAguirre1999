@@ -1,14 +1,18 @@
 # Hola, soy Jonathan Aguirre
 
-### Software Engineering Student | Junior QA & Technical Support
+### Backend Developer | Java (Spring Boot & Spring Security) | Secure API Design
 
-Estudiante de Ingeniería de Software con mentalidad analítica y experiencia en resolución de problemas técnicos en entornos de negocio (ERP). Me enfoco en la calidad del código, la seguridad de los procesos y la optimización de sistemas.
+Soy desarrollador backend enfocado en el ecosistema Java (Spring Boot y Spring Security), especializado en
+diseño de APIs REST seguras y mitigación de vulnerabilidades (OWASP Top 10). Vengo de un background
+en emergencias médicas, lo que me formó para operar bajo presión y cumplir protocolos estrictos. Hoy
+aplico esa misma disciplina, rigor analítico e instinto defensor para blindar el software transaccional,
+implementar autenticación robusta y garantizar la integridad de los datos en entornos de alta demanda
 
 ### Mis Herramientas (Stack)
 
-* **Lenguajes Principales:** Java (OOP), SQL.
-* **Habilidades Clave:** Software Testing (QA), Documentación de Bugs, Soporte Técnico.
-* **Herramientas:** Git/GitHub, IDEs (IntelliJ/Eclipse), Metodologías Ágiles (Conocimiento de Trello/Jira).
+* **Lenguajes Principales:** Java, Spring Boot, Spring Security (JWT, RBAC), SQL (PostgreSQL), Python
+* **Habilidades Clave:** Diseño de APIs Seguras, Mitigación OWASP Top 10, Control de acceso basado en Roles (RBAC), Testing de Vulnerabilidades, Git/GitHub, Linux, Docker, Postman.
+* **Herramientas:** Git/GitHub, IDEs (IntelliJ/Eclipse), Postman, DataGrip, Burpsuite & Dirbuster (testing de vulnerabilidades), Metodologías Ágiles (Conocimiento de Trello/Jira).
 
 ### Proyectos Destacados (Portafolio)
 
