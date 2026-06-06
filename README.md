@@ -11,8 +11,8 @@ implementar autenticación robusta y garantizar la integridad de los datos en en
 ### Mis Herramientas (Stack)
 
 * **Lenguajes Principales:** Java, Spring Boot, Spring Security (JWT, RBAC), SQL (PostgreSQL), Python
-* **Habilidades Clave:** Diseño de APIs Seguras, Mitigación OWASP Top 10, Control de acceso basado en Roles (RBAC), Testing de Vulnerabilidades, Git/GitHub, Linux, Docker, Postman.
-* **Herramientas:** Git/GitHub, IDEs (IntelliJ/Eclipse), Postman, DataGrip, Burpsuite & Dirbuster (testing de vulnerabilidades), Metodologías Ágiles (Conocimiento de Trello/Jira).
+* **Habilidades Clave:** Diseño de APIs Seguras, Mitigación OWASP Top 10, Control de acceso basado en Roles (RBAC), Testing de Vulnerabilidades, Git/GitHub, Linux, Docker.
+* **Herramientas:** Git/GitHub, Postman, Burpsuite & Dirbuster (testing de vulnerabilidades), Swagger (documentación de APIs), Metodologías Ágiles (Conocimiento de Trello/Jira).
 
 ### Proyectos Destacados (Portafolio)
 
@@ -20,7 +20,7 @@ Aquí puedes ver la aplicación práctica de mis habilidades en sistemas funcion
 
 | Proyecto | Objetivo | Tecnologías |
 | :--- | :--- | :--- |
-| **[Multimedia-Inventory-Manager](https://github.com/jonathanAguirre1999/Multimedia-Inventory-Manager.git)** | Gestión de datos y exportación de reportes a CSV/TXT. | Java, Swing, Data Management |
+| **[KYRON - Sistema de Gestión Clínica y Farmacéutica Integral](https://github.com/jonathanAguirre1999/kyron-medical-pms-desktop-release)** | Diseño y desarrollo desde cero de un Monolito Modular de código abierto para la gestión de atención médica y campañas de salud. | Java, JavaFX, ,CSS, MySQL, BCrypt, JasperReports |
 | **[Java-Crypto-Tool](https://github.com/jonathanAguirre1999/Java-Crypto-Tool.git)** | Implementación de algoritmos de seguridad de datos. | Java, Cryptography, File I/O |
 | **[Tournament-Match-Scheduler](https://github.com/jonathanAguirre1999/Tournament-Match-Scheduler.git)** | Generador de sorteos con lógica algorítmica. | Java, Algorithms |
 | **[Console-Minesweeper-Java](https://github.com/jonathanAguirre1999/Console-Minesweeper-Java.git)** | Aplicación de POO a una réplica del clásico buscaminas. | Java, Data Management, JUnit |
