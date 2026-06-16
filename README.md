@@ -1,31 +1,35 @@
-# Hola, soy Jonathan Aguirre
+# Hi, I'm Jonathan Aguirre
 
 ### Backend Developer | Java (Spring Boot & Spring Security) | Secure API Design
 
-Soy desarrollador backend enfocado en el ecosistema Java (Spring Boot y Spring Security), especializado en
-diseño de APIs REST seguras y mitigación de vulnerabilidades (OWASP Top 10). Vengo de un background
-en emergencias médicas, lo que me formó para operar bajo presión y cumplir protocolos estrictos. Hoy
-aplico esa misma disciplina, rigor analítico e instinto defensor para blindar el software transaccional,
-implementar autenticación robusta y garantizar la integridad de los datos en entornos de alta demanda
+Backend Software Developer focused on Java and Spring Boot.
 
-### Mis Herramientas (Stack)
+I build secure and maintainable backend systems, emphasizing clean architecture, automated testing, API design, and software quality.
 
-* **Lenguajes Principales:** Java, Spring Boot, Spring Security (JWT, RBAC), SQL (PostgreSQL), Python
-* **Habilidades Clave:** Diseño de APIs Seguras, Mitigación OWASP Top 10, Control de acceso basado en Roles (RBAC), Testing de Vulnerabilidades, Git/GitHub, Linux, Docker.
-* **Herramientas:** Git/GitHub, Postman, Burpsuite & Dirbuster (testing de vulnerabilidades), Swagger (documentación de APIs), Metodologías Ágiles (Conocimiento de Trello/Jira).
+My background in emergency medical services taught me to work under pressure, follow strict procedures, and make reliable decisions in critical situations. Today, I apply those same principles to software development, building systems that prioritize reliability, security, and maintainability.
 
-### Proyectos Destacados (Portafolio)
+### Core Technologies
 
-Aquí puedes ver la aplicación práctica de mis habilidades en sistemas funcionales:
+* Java 21
+* Spring Boot
+* Spring Security
+* PostgreSQL / MySQL / MariaDB
+* JUnit 5 & Mockito
+* GitHub Actions
+* Docker
+* OpenAPI / Swagger
+* SonarCloud
 
-| Proyecto | Objetivo | Tecnologías |
+### Featured Projects
+
+| Proyect | Objective | Technologies |
 | :--- | :--- | :--- |
-| **[KYRON - Sistema de Gestión Clínica y Farmacéutica Integral](https://github.com/jonathanAguirre1999/kyron-medical-pms-desktop-release)** | Diseño y desarrollo desde cero de un Monolito Modular de código abierto para la gestión de atención médica y campañas de salud. | Java, JavaFX, ,CSS, MySQL, BCrypt, JasperReports |
-| **[Java-Crypto-Tool](https://github.com/jonathanAguirre1999/Java-Crypto-Tool.git)** | Implementación de algoritmos de seguridad de datos. | Java, Cryptography, File I/O |
-| **[Tournament-Match-Scheduler](https://github.com/jonathanAguirre1999/Tournament-Match-Scheduler.git)** | Generador de sorteos con lógica algorítmica. | Java, Algorithms |
-| **[Console-Minesweeper-Java](https://github.com/jonathanAguirre1999/Console-Minesweeper-Java.git)** | Aplicación de POO a una réplica del clásico buscaminas. | Java, Data Management, JUnit |
+| **[Supermarket Chain Management API](https://github.com/jonathanAguirre1999/API-REST-supermarket-chain)** | RESTful backend application designed for inventory management and transactional sales processing, featuring automated testing, CI pipelines, API documentation, and PostgreSQL persistence. | Java, Spring Boot, PostgreSQL, JUnit5 & Mockito, SonarCloud, Swagger / OpenAPI, GitHub Actions (CI), Docker |
+| **[KYRON Medical Management System](https://github.com/jonathanAguirre1999/kyron-medical-pms-desktop-release)** | Desktop application for healthcare and pharmaceutical management, built using a modular architecture with reporting, authentication, and patient management capabilities. | JavaFX, CSS3, MariaDB, JPA / Hibernate, JUnit5, JasperReports, BCrypt |
 
-### Contacto
+I am currently seeking opportunities as a Backend Developer where I can continue growing in Java, software architecture, secure development, and cloud-native technologies.
+
+### Contact
 
 * **LinkedIn:** [https://www.linkedin.com/in/jonathan-aguirre-dev/]
 * **Email:** [jonathan.aguirrec@outlook.com]
